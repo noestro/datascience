@@ -24,7 +24,7 @@ Ce programme est utile pour les analystes, les décideurs politiques ou les orga
 ### Installation des Dépendances
 Si les bibliothèques ne sont pas installées, exécutez :
 ```
-pip install pandas matplotlib scikit-learn
+pip install -r requirement.txt
 ```
 
 ### Exécution
